@@ -10,8 +10,8 @@
   },
   "name": "romanvolf-sdk",
   "description": "LOTR API SDK",
-  "main": "lib/LotrApi.js",
-  "types": "lib/LotrApi.d.ts",
+  "main": "lib/LotrAPI.js",
+  "types": "lib/LotrAPI.d.ts",
   "version": "1.0.0",
 
   "scripts": {
