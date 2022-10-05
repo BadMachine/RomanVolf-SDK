@@ -69,7 +69,6 @@ class RApi {
   private getInstance() {
     const instance = axios.create({
       baseURL: ' https://the-one-api.dev/v2/',
-      withCredentials: true,
       headers: {
         Authorization: `Bearer ${this.params?.authKey}`,
       },
