@@ -19,7 +19,6 @@ async function example() {
   console.log(data); // Array of result objects
 }
 ```
-
 ## Methods available
 
 ```
