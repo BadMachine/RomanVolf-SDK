@@ -12,8 +12,7 @@
   "description": "LOTR API SDK",
   "main": "lib/LotrAPI.js",
   "types": "lib/LotrAPI.d.ts",
-  "version": "1.0.0",
-
+  "version": "1.0.1",
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "tslint -p tsconfig.json",
