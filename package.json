@@ -21,6 +21,7 @@
     "prepare": "npm run build",
     "prepublishOnly": "npm test && npm run lint",
     "preversion": "npm run lint",
+    "example": "ts-node src/example/index.ts",
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
